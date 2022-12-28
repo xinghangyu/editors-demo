@@ -13,7 +13,7 @@
 - Easy to setup, store data in HTML already
 - less customizable than Slate
                     
-=====================================================================================
+================================================================
 ### [tiny](https://www.tiny.cloud/)
 - out of the box
 - require selector configuration
@@ -36,10 +36,10 @@
 ### [React-Draft-WYSIWYG](https://jpuri.github.io/react-draft-wysiwyg/#/)
 - built on top of DraftJS
 - provides ready-made UI out of the box
-- Need a parser to convert state to HTML
+- using react v15 instead of v18
 
 ### [froala](https://github.com/froala/react-froala-wysiwyg#options)
-- long webpack setting
+- complicated webpack setting
 - provide server side sdk
 - not typescript friendly
 
