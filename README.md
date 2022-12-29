@@ -1,10 +1,13 @@
 # List of editors
 
-### [Slate](https://www.tiny.cloud/)
+### [Slate](https://github.com/ianstormtaylor/slate)
 - Full customize, but it require a lot manual work to setup the basic funcionally
 - in beta
 - API driven
 
+### [Lexical](https://github.com/facebook/lexical)
+- the Js version of Slate
+  
 ### [React Email Editor](https://github.com/unlayer/react-email-editor)
 - Instead of a rich text editor, this is more of a drag and drop email template
 - hard to made changes on top of it
@@ -12,6 +15,8 @@
 ### [ReactQuill](https://github.com/zenoamaro/react-quill)
 - Easy to setup, store data in HTML already
 - less customizable than Slate
+
+
                     
 ================================================================
 ### [tiny](https://www.tiny.cloud/)
